@@ -4,7 +4,7 @@ I’m a Software Engineer with a strong focus on building scalable and efficient
 
 <!-- My GitHub stats -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LyricYang&show_icons=true&hide_title=true" alt="my github stats" height="180"/>&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api?username=LyricYang&show_icons=true&hide_title=true" alt="my github stats" height="180" width="400"/>&nbsp;
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LyricYang&layout=compact&exclude_repo=LryicYang.github.io,LryicYang" alt="languages" height="180" />
 </p>
 
