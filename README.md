@@ -1,4 +1,4 @@
-## Hey, I'm [Lyric Yang](https://lyricyang.github.io/)! 👋
+## Hey, I'm [Lyric Yang](https://blog.yeoh-yolo.com/)! 👋
 
 I’m a Software Engineer with a strong focus on building scalable and efficient distributed systems. My expertise lies in Java, Python and C#, and I have hands-on experience designing and optimizing high-performance backend services. I worked at Ctrip for two years and am currently employed at Microsoft.
 
