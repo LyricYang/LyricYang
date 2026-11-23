@@ -7,6 +7,7 @@
   <style>
     .frame { fill: none; stroke: #82a9a6 }
     .divider { fill: none; stroke: #4e7178 }
+    .heading-rule { fill: none; stroke-width: 2; stroke-dasharray: 7 2 }
     .leader { fill: none; stroke: #81949e; stroke-dasharray: 1 3.5; stroke-linecap: round }
     .ascii text, .ascii tspan { white-space: pre }
     .key { fill: #88d6f2 }
@@ -34,7 +35,8 @@
     <path d="M0 6h5v1H0zM8 6h1v1H8zM12 6h1v1H12zM16 6h1v1H16zM18 6h5v1H18zM25 6h4v1H25zM34 6h1v1H34zM38 6h1v1H38zM42 6h1v1H42zM44 6h1v1H44zM48 6h1v1H48zM51 6h4v1H51z"/>
   </g>
   <g id="about" class="ascii" aria-labelledby="about-title">
-    <text id="about-title" x="26" y="139" font-size="15" font-weight="bold" fill="#88d6f2">-- ABOUT ME --</text>
+    <text id="about-title" x="26" y="139" font-size="15" font-weight="bold" fill="#88d6f2">-- ABOUT ME</text>
+    <path class="heading-rule" stroke="#88d6f2" d="M614 134.5H134"/>
     <text x="26" y="158"><tspan fill="#a8efd2">$</tspan> profile --about</text>
     <text x="26" y="180"><tspan class="key">role      -</tspan> <tspan fill="#ffcb92" font-weight="bold">Senior Software Engineer @ Microsoft</tspan></text>
     <text x="26" y="200"><tspan class="key">work      -</tspan> Building scalable distributed systems and AI agent systems</text>
@@ -51,7 +53,8 @@
   </g>
 
   <g id="contact" aria-labelledby="contact-title">
-    <text id="contact-title" x="26" y="419" font-size="15" font-weight="bold" fill="#ccaff0">-- CONTACT --</text>
+    <text id="contact-title" x="26" y="419" font-size="15" font-weight="bold" fill="#ccaff0">-- CONTACT</text>
+    <path class="heading-rule" stroke="#ccaff0" d="M614 414.5H125"/>
     <path class="leader" d="M68 435.5H438 M90 455.5H391 M83 475.5H384"/>
     <g fill="#ccaff0">
       <text x="26" y="440">Mail</text>
@@ -66,8 +69,8 @@
   </g>
 
   <g id="stats" aria-labelledby="stats-title">
-    <text id="stats-title" x="26" y="510" font-size="15" font-weight="bold" fill="#a8efd2">-- GITHUB STATS --</text>
-    <text x="614" y="510" text-anchor="end" font-size="12" fill="#c7d3dd">as of 2026-11-23 UTC</text>
+    <text id="stats-title" x="26" y="510" font-size="15" font-weight="bold" fill="#a8efd2">-- GITHUB STATS</text>
+    <path class="heading-rule" stroke="#a8efd2" d="M614 505.5H171"/>
     <g fill="#a8efd2">
       <text x="26" y="532">Repos</text>
       <text x="26" y="552">Following</text>
@@ -80,9 +83,11 @@
       <text x="614" y="532">1,232</text>
       <text x="614" y="552">88</text>
     </g>
+    <text x="614" y="570" text-anchor="end" font-size="12" fill="#c7d3dd">as of 2026-11-23 UTC</text>
   </g>
 
-  <text id="pinned-title" x="26" y="584" font-size="15" font-weight="bold" fill="#ffcb92">-- PINNED PROJECT --</text>
+  <text id="pinned-title" x="26" y="584" font-size="15" font-weight="bold" fill="#ffcb92">-- PINNED PROJECT</text>
+  <path class="heading-rule" stroke="#ffcb92" d="M614 579.5H189"/>
   <path class="divider" d="M326.5 601v177"/>
   <g class="ascii" transform="translate(0 91)">
     <text x="26" y="528" fill="#88d6f2" font-size="15" font-weight="bold">MIMO-OFDM</text>
