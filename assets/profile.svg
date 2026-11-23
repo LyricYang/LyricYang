@@ -1,0 +1,115 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="798" viewBox="0 0 640 798"
+     role="img" aria-labelledby="title desc"
+     font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace"
+     font-size="13" fill="#e3e8ed">
+  <title id="title">Lyric Yang</title>
+  <desc id="desc">About Me, contact details, public GitHub statistics and two pinned projects: a four-state QPSK constellation and a binary search for 3 along the path 4, 2, 3.</desc>
+  <style>
+    .frame { fill: none; stroke: #82a9a6 }
+    .divider { fill: none; stroke: #4e7178 }
+    .leader { fill: none; stroke: #81949e; stroke-dasharray: 1 3.5; stroke-linecap: round }
+    .ascii text, .ascii tspan { white-space: pre }
+    .key { fill: #88d6f2 }
+  </style>
+  <rect width="640" height="798" fill="#131b22"/>
+  <rect x="7" y="7" width="626" height="26" fill="#203137"/>
+  <rect class="frame" x="6.5" y="6.5" width="627" height="785"/>
+  <path class="divider" d="M6.5 33.5h627"/>
+  <text x="22" y="24" font-size="12"><tspan fill="#a8efd2">lyricyang@github:~$</tspan> cat profile</text>
+
+  <defs>
+    <pattern id="pixel" width="1" height="1" patternUnits="userSpaceOnUse" viewBox="0 0 8 8">
+      <rect x=".5" y=".5" width="7" height="7" fill="#000"/>
+    </pattern>
+  </defs>
+  <rect x="7" y="34" width="626" height="82" fill="#b8d4c4"/>
+  <!-- Center the original 55-by-7 name grid at eight pixels per cell. -->
+  <g id="nameplate" aria-label="LYRIC YANG" transform="translate(100 47) scale(8)" fill="url(#pixel)">
+    <path d="M0 0h1v1H0zM6 0h1v1H6zM10 0h1v1H10zM12 0h4v1H12zM18 0h5v1H18zM25 0h4v1H25zM32 0h1v1H32zM36 0h1v1H36zM39 0h3v1H39zM44 0h1v1H44zM48 0h1v1H48zM51 0h4v1H51z"/>
+    <path d="M0 1h1v1H0zM6 1h1v1H6zM10 1h1v1H10zM12 1h1v1H12zM16 1h1v1H16zM20 1h1v1H20zM24 1h1v1H24zM32 1h1v1H32zM36 1h1v1H36zM38 1h1v1H38zM42 1h1v1H42zM44 1h2v1H44zM48 1h1v1H48zM50 1h1v1H50z"/>
+    <path d="M0 2h1v1H0zM7 2h1v1H7zM9 2h1v1H9zM12 2h1v1H12zM16 2h1v1H16zM20 2h1v1H20zM24 2h1v1H24zM33 2h1v1H33zM35 2h1v1H35zM38 2h1v1H38zM42 2h1v1H42zM44 2h2v1H44zM48 2h1v1H48zM50 2h1v1H50z"/>
+    <path d="M0 3h1v1H0zM8 3h1v1H8zM12 3h4v1H12zM20 3h1v1H20zM24 3h1v1H24zM34 3h1v1H34zM38 3h5v1H38zM44 3h1v1H44zM46 3h1v1H46zM48 3h1v1H48zM50 3h1v1H50zM52 3h3v1H52z"/>
+    <path d="M0 4h1v1H0zM8 4h1v1H8zM12 4h1v1H12zM14 4h1v1H14zM20 4h1v1H20zM24 4h1v1H24zM34 4h1v1H34zM38 4h1v1H38zM42 4h1v1H42zM44 4h1v1H44zM47 4h2v1H47zM50 4h1v1H50zM54 4h1v1H54z"/>
+    <path d="M0 5h1v1H0zM8 5h1v1H8zM12 5h1v1H12zM15 5h1v1H15zM20 5h1v1H20zM24 5h1v1H24zM34 5h1v1H34zM38 5h1v1H38zM42 5h1v1H42zM44 5h1v1H44zM47 5h2v1H47zM50 5h1v1H50zM54 5h1v1H54z"/>
+    <path d="M0 6h5v1H0zM8 6h1v1H8zM12 6h1v1H12zM16 6h1v1H16zM18 6h5v1H18zM25 6h4v1H25zM34 6h1v1H34zM38 6h1v1H38zM42 6h1v1H42zM44 6h1v1H44zM48 6h1v1H48zM51 6h4v1H51z"/>
+  </g>
+  <g id="about" class="ascii" aria-labelledby="about-title">
+    <text id="about-title" x="26" y="139" font-size="15" font-weight="bold" fill="#88d6f2">-- ABOUT ME --</text>
+    <text x="26" y="158"><tspan fill="#a8efd2">$</tspan> profile --about</text>
+    <text x="26" y="180"><tspan class="key">role      -</tspan> <tspan fill="#ffcb92" font-weight="bold">Senior Software Engineer @ Microsoft</tspan></text>
+    <text x="26" y="200"><tspan class="key">work      -</tspan> Building scalable distributed systems and AI agent systems</text>
+    <text x="26" y="226"><tspan class="key">career    -</tspan> 2019–2021     Crip</text>
+    <text x="26" y="246">            2021–present  Microsoft</text>
+    <text x="26" y="270"><tspan class="key">exploring -</tspan> AI agents</text>
+
+    <text x="26" y="295"><tspan class="key">bio       -</tspan> A passionate software engineer and lifelong learner.</text>
+    <text x="26" y="311">            I enjoy building high-performance backend services and</text>
+    <text x="26" y="327">            exploring cutting-edge technologies.</text>
+    <text x="26" y="351"><tspan class="key">offline   -</tspan> Outside of coding, I love DIY projects, hiking, and sports —</text>
+    <text x="26" y="367">            they keep me inspired and bring fresh perspectives to my work.</text>
+    <text x="26" y="391"><tspan class="key">tools     -</tspan> Java · Python · C# · Spring · .NET · Redis · Docker</text>
+  </g>
+
+  <g id="contact" aria-labelledby="contact-title">
+    <text id="contact-title" x="26" y="419" font-size="15" font-weight="bold" fill="#ccaff0">-- CONTACT --</text>
+    <path class="leader" d="M68 435.5H438 M90 455.5H391 M83 475.5H384"/>
+    <g fill="#ccaff0">
+      <text x="26" y="440">Mail</text>
+      <text x="26" y="460">Website</text>
+      <text x="26" y="480">GitHub</text>
+    </g>
+    <g text-anchor="end">
+      <text x="614" y="440">yanglin9837@gmail.com</text>
+      <text x="614" y="460">https://blog.yeoh-yolo.com/</text>
+      <text x="614" y="480">https://github.com/LyricYang</text>
+    </g>
+  </g>
+
+  <g id="stats" aria-labelledby="stats-title">
+    <text id="stats-title" x="26" y="510" font-size="15" font-weight="bold" fill="#a8efd2">-- GITHUB STATS --</text>
+    <text x="614" y="510" text-anchor="end" font-size="12" fill="#c7d3dd">as of 2026-11-23 UTC</text>
+    <g fill="#a8efd2">
+      <text x="26" y="532">Repos</text>
+      <text x="26" y="552">Following</text>
+      <text x="345" y="532">Stars received</text>
+      <text x="345" y="552">Followers</text>
+    </g>
+    <g text-anchor="end">
+      <text x="303" y="532">9</text>
+      <text x="303" y="552">37</text>
+      <text x="614" y="532">1,232</text>
+      <text x="614" y="552">88</text>
+    </g>
+  </g>
+
+  <text id="pinned-title" x="26" y="584" font-size="15" font-weight="bold" fill="#ffcb92">-- PINNED PROJECT --</text>
+  <path class="divider" d="M326.5 601v177"/>
+  <g class="ascii" transform="translate(0 91)">
+    <text x="26" y="528" fill="#88d6f2" font-size="15" font-weight="bold">MIMO-OFDM</text>
+    <text x="26" y="548" fill="#c7d3dd">MATLAB / QPSK constellation</text>
+    <g fill="#9bb9cb">
+      <text x="48" y="569">        Q</text>
+      <text x="48" y="583">  . <tspan fill="#78debd">*</tspan> . | . <tspan fill="#78debd">*</tspan> .</text>
+      <text x="48" y="597">  . . . | . . .</text>
+      <text x="48" y="611">--------+-------- I</text>
+      <text x="48" y="625">  . . . | . . .</text>
+      <text x="48" y="639">  . <tspan fill="#78debd">*</tspan> . | . <tspan fill="#78debd">*</tspan> .</text>
+    </g>
+    <text x="26" y="663" fill="#a8efd2">4 phase states · 2 bits/symbol</text>
+    <text x="26" y="687" fill="#c7d3dd" font-size="11">MIMO_OFDM</text>
+  </g>
+  <g class="ascii" transform="translate(0 91)">
+    <text x="345" y="528" fill="#ffcb92" font-size="15" font-weight="bold">Algorithm notebook</text>
+    <text x="345" y="548" fill="#c7d3dd">Java / binary search tree</text>
+    <g fill="#b1aabf">
+      <text x="360" y="574">        <tspan fill="#ffcb92">[4]</tspan></text>
+      <text x="360" y="589">     ,---^---.</text>
+      <text x="360" y="604">    <tspan fill="#ffcb92">[2]</tspan>     [6]</text>
+      <text x="360" y="619">   ,-^-.   ,-^-.</text>
+      <text x="360" y="634">  [1] <tspan fill="#ffcb92">[3]</tspan> [5] [7]</text>
+    </g>
+    <text x="345" y="654" fill="#ffcb92">find(3): 4 -&gt; 2 -&gt; 3</text>
+    <text x="345" y="671" fill="#c7d3dd">3 comparisons</text>
+    <text x="345" y="687" fill="#c7d3dd" font-size="11">Internet-Recruiting-Algorithm-Problems</text>
+  </g>
+</svg>
