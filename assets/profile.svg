@@ -42,14 +42,15 @@
     <text x="26" y="200"><tspan class="key">work      -</tspan> Building scalable distributed systems and AI agent systems</text>
     <text x="26" y="226"><tspan class="key">career    -</tspan> 2019–2021     Crip</text>
     <text x="26" y="246">            2021–present  Microsoft</text>
-    <text x="26" y="270"><tspan class="key">exploring -</tspan> AI agents</text>
+    <text x="26" y="269"><tspan class="key">languages -</tspan> Java · C# · C++ · Python · Go · Rust</text>
+    <text x="26" y="288"><tspan class="key">stack     -</tspan> Docker · Redis · Elasticsearch · Spring · .NET</text>
+    <text x="26" y="305">            AI agents (exploring): MCP · Skill · harness · RAG</text>
 
-    <text x="26" y="295"><tspan class="key">bio       -</tspan> A passionate software engineer and lifelong learner.</text>
-    <text x="26" y="311">            I enjoy building high-performance backend services and</text>
-    <text x="26" y="327">            exploring cutting-edge technologies.</text>
-    <text x="26" y="351"><tspan class="key">offline   -</tspan> Outside of coding, I love DIY projects, hiking, and sports —</text>
-    <text x="26" y="367">            they keep me inspired and bring fresh perspectives to my work.</text>
-    <text x="26" y="391"><tspan class="key">tools     -</tspan> Java · Python · C# · Spring · .NET · Redis · Docker</text>
+    <text x="26" y="326"><tspan class="key">bio       -</tspan> A passionate software engineer and lifelong learner.</text>
+    <text x="26" y="342">            I enjoy building high-performance backend services and</text>
+    <text x="26" y="358">            exploring cutting-edge technologies.</text>
+    <text x="26" y="378"><tspan class="key">offline   -</tspan> Outside of coding, I love DIY projects, hiking, and sports —</text>
+    <text x="26" y="394">            they keep me inspired and bring fresh perspectives to my work.</text>
   </g>
 
   <g id="contact" aria-labelledby="contact-title">
