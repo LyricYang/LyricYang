@@ -1,29 +1,27 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="640" height="798" viewBox="0 0 640 798"
      role="img" aria-labelledby="title desc"
      font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace"
-     font-size="13" fill="#e3e8ed">
+     font-size="13" fill="#1f2328">
   <title id="title">Lyric Yang</title>
   <desc id="desc">About Me, contact details, public GitHub statistics and two pinned projects: a four-state QPSK constellation and a binary search for 3 along the path 4, 2, 3.</desc>
   <style>
-    .frame { fill: none; stroke: #82a9a6 }
-    .divider { fill: none; stroke: #4e7178 }
+    .frame { fill: none; stroke: #d1d9e0 }
+    .divider { fill: none; stroke: #d1d9e0 }
     .heading-rule { fill: none; stroke-width: 2; stroke-dasharray: 7 2 }
-    .leader { fill: none; stroke: #81949e; stroke-dasharray: 1 3.5; stroke-linecap: round }
+    .leader { fill: none; stroke: #8c959f; stroke-dasharray: 1 3.5; stroke-linecap: round }
     .ascii text, .ascii tspan { white-space: pre }
-    .key { fill: #88d6f2 }
+    .key { fill: #0969da }
   </style>
-  <rect width="640" height="798" fill="#131b22"/>
-  <rect x="7" y="7" width="626" height="26" fill="#203137"/>
+  <rect width="640" height="798" fill="#ffffff"/>
   <rect class="frame" x="6.5" y="6.5" width="627" height="785"/>
   <path class="divider" d="M6.5 33.5h627"/>
-  <text x="22" y="24" font-size="12"><tspan fill="#a8efd2">lyricyang@github:~$</tspan> cat profile</text>
+  <text x="22" y="24" font-size="12"><tspan fill="#116329">lyricyang@github:~$</tspan> cat profile</text>
 
   <defs>
     <pattern id="pixel" width="1" height="1" patternUnits="userSpaceOnUse" viewBox="0 0 8 8">
       <rect x=".5" y=".5" width="7" height="7" fill="#000"/>
     </pattern>
   </defs>
-  <rect x="7" y="34" width="626" height="82" fill="#b8d4c4"/>
   <!-- Center the original 55-by-7 name grid at eight pixels per cell. -->
   <g id="nameplate" aria-label="LYRIC YANG" transform="translate(100 47) scale(8)" fill="url(#pixel)">
     <path d="M0 0h1v1H0zM6 0h1v1H6zM10 0h1v1H10zM12 0h4v1H12zM18 0h5v1H18zM25 0h4v1H25zM32 0h1v1H32zM36 0h1v1H36zM39 0h3v1H39zM44 0h1v1H44zM48 0h1v1H48zM51 0h4v1H51z"/>
@@ -35,16 +33,16 @@
     <path d="M0 6h5v1H0zM8 6h1v1H8zM12 6h1v1H12zM16 6h1v1H16zM18 6h5v1H18zM25 6h4v1H25zM34 6h1v1H34zM38 6h1v1H38zM42 6h1v1H42zM44 6h1v1H44zM48 6h1v1H48zM51 6h4v1H51z"/>
   </g>
   <g id="about" class="ascii" aria-labelledby="about-title">
-    <text id="about-title" x="26" y="139" font-size="15" font-weight="bold" fill="#88d6f2">-- ABOUT ME</text>
-    <path class="heading-rule" stroke="#88d6f2" d="M614 134.5H134"/>
-    <text x="26" y="158"><tspan fill="#a8efd2">$</tspan> profile --about</text>
-    <text x="26" y="180"><tspan class="key">role      -</tspan> <tspan fill="#ffcb92" font-weight="bold">Senior Software Engineer @ Microsoft</tspan></text>
+    <text id="about-title" x="26" y="139" font-size="15" font-weight="bold" fill="#0969da">-- ABOUT ME</text>
+    <path class="heading-rule" stroke="#0969da" d="M614 134.5H134"/>
+    <text x="26" y="158"><tspan fill="#116329">$</tspan> profile --about</text>
+    <text x="26" y="180"><tspan class="key">role      -</tspan> <tspan fill="#953800" font-weight="bold">Senior Software Engineer @ Microsoft</tspan></text>
     <text x="26" y="200"><tspan class="key">work      -</tspan> Building scalable distributed systems and AI agent systems</text>
     <text x="26" y="226"><tspan class="key">career    -</tspan> 2019–2021     Crip</text>
     <text x="26" y="246">            2021–present  Microsoft</text>
     <text x="26" y="269"><tspan class="key">languages -</tspan> Java · C# · C++ · Python · Go · Rust</text>
     <text x="26" y="288"><tspan class="key">stack     -</tspan> Docker · Redis · Elasticsearch · Spring · .NET</text>
-    <text x="26" y="305">            AI agents (exploring): MCP · Skill · harness · RAG</text>
+    <text x="26" y="305">            AI agents (exploring): MCP · Skill · HARNESS · RAG</text>
 
     <text x="26" y="326"><tspan class="key">bio       -</tspan> A passionate software engineer and lifelong learner.</text>
     <text x="26" y="342">            I enjoy building high-performance backend services and</text>
@@ -54,10 +52,10 @@
   </g>
 
   <g id="contact" aria-labelledby="contact-title">
-    <text id="contact-title" x="26" y="419" font-size="15" font-weight="bold" fill="#ccaff0">-- CONTACT</text>
-    <path class="heading-rule" stroke="#ccaff0" d="M614 414.5H125"/>
+    <text id="contact-title" x="26" y="419" font-size="15" font-weight="bold" fill="#6639ba">-- CONTACT</text>
+    <path class="heading-rule" stroke="#6639ba" d="M614 414.5H125"/>
     <path class="leader" d="M68 435.5H438 M90 455.5H391 M83 475.5H384"/>
-    <g fill="#ccaff0">
+    <g fill="#6639ba">
       <text x="26" y="440">Mail</text>
       <text x="26" y="460">Website</text>
       <text x="26" y="480">GitHub</text>
@@ -70,9 +68,9 @@
   </g>
 
   <g id="stats" aria-labelledby="stats-title">
-    <text id="stats-title" x="26" y="510" font-size="15" font-weight="bold" fill="#a8efd2">-- GITHUB STATS</text>
-    <path class="heading-rule" stroke="#a8efd2" d="M614 505.5H171"/>
-    <g fill="#a8efd2">
+    <text id="stats-title" x="26" y="510" font-size="15" font-weight="bold" fill="#116329">-- GITHUB STATS</text>
+    <path class="heading-rule" stroke="#116329" d="M614 505.5H171"/>
+    <g fill="#116329">
       <text x="26" y="532">Repos</text>
       <text x="26" y="552">Following</text>
       <text x="345" y="532">Stars received</text>
@@ -84,38 +82,38 @@
       <text x="614" y="532">1,232</text>
       <text x="614" y="552">88</text>
     </g>
-    <text x="614" y="570" text-anchor="end" font-size="12" fill="#c7d3dd">as of 2026-11-23 UTC</text>
+    <text x="614" y="570" text-anchor="end" font-size="12" fill="#59636e">as of 2026-11-23 UTC</text>
   </g>
 
-  <text id="pinned-title" x="26" y="584" font-size="15" font-weight="bold" fill="#ffcb92">-- PINNED PROJECT</text>
-  <path class="heading-rule" stroke="#ffcb92" d="M614 579.5H189"/>
+  <text id="pinned-title" x="26" y="584" font-size="15" font-weight="bold" fill="#953800">-- PINNED PROJECT</text>
+  <path class="heading-rule" stroke="#953800" d="M614 579.5H189"/>
   <path class="divider" d="M326.5 601v177"/>
   <g class="ascii" transform="translate(0 91)">
-    <text x="26" y="528" fill="#88d6f2" font-size="15" font-weight="bold">MIMO-OFDM</text>
-    <text x="26" y="548" fill="#c7d3dd">MATLAB / QPSK constellation</text>
-    <g fill="#9bb9cb">
+    <text x="26" y="528" fill="#953800" font-size="15" font-weight="bold">MIMO-OFDM</text>
+    <text x="26" y="548" fill="#59636e">MATLAB / QPSK constellation</text>
+    <g fill="#59636e" transform="translate(44 0)">
       <text x="48" y="569">        Q</text>
-      <text x="48" y="583">  . <tspan fill="#78debd">*</tspan> . | . <tspan fill="#78debd">*</tspan> .</text>
+      <text x="48" y="583">  . <tspan fill="#953800">*</tspan> . | . <tspan fill="#953800">*</tspan> .</text>
       <text x="48" y="597">  . . . | . . .</text>
       <text x="48" y="611">--------+-------- I</text>
       <text x="48" y="625">  . . . | . . .</text>
-      <text x="48" y="639">  . <tspan fill="#78debd">*</tspan> . | . <tspan fill="#78debd">*</tspan> .</text>
+      <text x="48" y="639">  . <tspan fill="#953800">*</tspan> . | . <tspan fill="#953800">*</tspan> .</text>
     </g>
-    <text x="26" y="663" fill="#a8efd2">4 phase states · 2 bits/symbol</text>
-    <text x="26" y="687" fill="#c7d3dd" font-size="11">MIMO_OFDM</text>
+    <text x="26" y="663" fill="#953800">4 phase states · 2 bits/symbol</text>
+    <text x="26" y="687" fill="#59636e" font-size="11">MIMO_OFDM</text>
   </g>
   <g class="ascii" transform="translate(0 91)">
-    <text x="345" y="528" fill="#ffcb92" font-size="15" font-weight="bold">Algorithm notebook</text>
-    <text x="345" y="548" fill="#c7d3dd">Java / binary search tree</text>
-    <g fill="#b1aabf">
-      <text x="360" y="574">        <tspan fill="#ffcb92">[4]</tspan></text>
+    <text x="345" y="528" fill="#953800" font-size="15" font-weight="bold">Algorithm notebook</text>
+    <text x="345" y="548" fill="#59636e">Java / binary search tree</text>
+    <g fill="#59636e" transform="translate(46 0)">
+      <text x="360" y="574">        <tspan fill="#953800">[4]</tspan></text>
       <text x="360" y="589">     ,---^---.</text>
-      <text x="360" y="604">    <tspan fill="#ffcb92">[2]</tspan>     [6]</text>
+      <text x="360" y="604">    <tspan fill="#953800">[2]</tspan>     [6]</text>
       <text x="360" y="619">   ,-^-.   ,-^-.</text>
-      <text x="360" y="634">  [1] <tspan fill="#ffcb92">[3]</tspan> [5] [7]</text>
+      <text x="360" y="634">  [1] <tspan fill="#953800">[3]</tspan> [5] [7]</text>
     </g>
-    <text x="345" y="654" fill="#ffcb92">find(3): 4 -&gt; 2 -&gt; 3</text>
-    <text x="345" y="671" fill="#c7d3dd">3 comparisons</text>
-    <text x="345" y="687" fill="#c7d3dd" font-size="11">Internet-Recruiting-Algorithm-Problems</text>
+    <text x="345" y="654" fill="#953800">find(3): 4 -&gt; 2 -&gt; 3</text>
+    <text x="345" y="671" fill="#953800">3 comparisons</text>
+    <text x="345" y="687" fill="#59636e" font-size="11">Internet-Recruiting-Algorithm-Problems</text>
   </g>
 </svg>
